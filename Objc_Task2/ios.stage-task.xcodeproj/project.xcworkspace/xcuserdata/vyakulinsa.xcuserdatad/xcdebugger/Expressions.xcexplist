@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[TwoDimensionalArraySorter twoDimensionalSort:]:TwoDimensionalArraySorter.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[array[0] class] ">
+            </PersistentString>
+            <PersistentString
+               value = "[array[0] isKindOfClass:[NSArray class]]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ReverseInteger:ReverseBinary.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "n &gt;&gt; i">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
