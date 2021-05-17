@@ -26,7 +26,7 @@
     
     if (numArray.count > 0 && strArray.count > 0){
         [resultArray addObject: [self kvcArray:numArray]];
-        [resultArray addObject: [self kvcArray:strArray]];
+        [resultArray addObject: [[[self kvcArray:strArray] reverseObjectEnumerator] allObjects]];
         return resultArray;
     }else {
         return [self kvcArray:array];
